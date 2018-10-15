@@ -1,0 +1,24 @@
+{
+    "name": "recipe-book",
+    "version": "0.2.0",
+    "description": "A recipe storage/retrieval API",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+    },
+    "engines": {
+      "node": "10.12.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vcnickerson/recipe-book"
+    },
+    "keywords": [
+      "node",
+      "aws"
+    ],
+    "author": "Vaughan Nickerson",
+    "contributors": []
+  }
